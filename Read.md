@@ -1,1 +1,0 @@
-Bom dia.. Conforme foi dito. Os botões da div pizzaInfo—qtarea. Não aparecem.
